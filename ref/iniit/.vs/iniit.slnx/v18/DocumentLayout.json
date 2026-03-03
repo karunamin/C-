@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceBank\\C-\\ref\\iniit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E99E30AB-9A1D-472F-95B4-F445648FB2A5}|iniit03\\iniit03.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\iniit03\\iniit03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E99E30AB-9A1D-472F-95B4-F445648FB2A5}|iniit03\\iniit03.vcxproj|solutionrelative:iniit03\\iniit03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88975598-B065-4725-B85A-06FA582509CE}|iniit02\\iniit02.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\iniit02\\iniit02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88975598-B065-4725-B85A-06FA582509CE}|iniit02\\iniit02.vcxproj|solutionrelative:iniit02\\iniit02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F3A8C1-EB57-44B2-B5D2-2175DF038E84}|iniit01\\iniit01.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\iniit01\\iniit01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8F3A8C1-EB57-44B2-B5D2-2175DF038E84}|iniit01\\iniit01.vcxproj|solutionrelative:iniit01\\iniit01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "iniit03.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit03\\iniit03.cpp",
+              "RelativeDocumentMoniker": "iniit03\\iniit03.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\iniit03\\iniit03.cpp",
+              "RelativeToolTip": "iniit03\\iniit03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T08:10:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iniit02.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit02\\iniit02.cpp",
+              "RelativeDocumentMoniker": "iniit02\\iniit02.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\iniit02\\iniit02.cpp",
+              "RelativeToolTip": "iniit02\\iniit02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T07:44:35.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iniit01.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit01\\iniit01.cpp",
+              "RelativeDocumentMoniker": "iniit01\\iniit01.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\iniit01\\iniit01.cpp",
+              "RelativeToolTip": "iniit01\\iniit01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T07:19:48.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

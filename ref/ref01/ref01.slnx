@@ -3,8 +3,14 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="array01/array01.vcxproj" />
-  <Project Path="ref01/ref01.vcxproj" />
-  <Project Path="ref02/ref02.vcxproj" />
-  <Project Path="ref03/ref03.vcxproj" />
+  <Project Path="array01/array01.vcxproj" Id="004c977a-4bb3-4245-8828-2a38c30c51e9" />
+  <Project Path="array02/array02.vcxproj" Id="2a84e005-3099-4287-9a8a-7829fadb0a9a" />
+  <Project Path="class01/class01.vcxproj" Id="c1839bc6-8301-4f08-86f7-8c8cb7a6639e" />
+  <Project Path="class02/class02.vcxproj" Id="a05e77da-5c81-4e2e-9626-1d591f3ac31d" />
+  <Project Path="class03/class03.vcxproj" Id="9fde80f5-8c27-4e57-8968-97735281f672" />
+  <Project Path="class04/class04.vcxproj" Id="eaa513ed-cf65-43e7-b138-cec0ba805c42" />
+  <Project Path="MyClass01/MyClass01.vcxproj" Id="235db2aa-4575-41a2-ad3d-aa04b72a12aa" />
+  <Project Path="ref01/ref01.vcxproj" Id="db1f4a8f-86ba-41cc-8584-d580180de36c" />
+  <Project Path="ref02/ref02.vcxproj" Id="314e1eb9-0eb3-487c-9aa9-24435f5cd86c" />
+  <Project Path="ref03/ref03.vcxproj" Id="1da4895b-2d82-476b-bb88-a0521851352b" />
 </Solution>

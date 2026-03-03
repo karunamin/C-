@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="iniit01/iniit01.vcxproj" />
+  <Project Path="iniit02/iniit02.vcxproj" />
+  <Project Path="iniit03/iniit03.vcxproj" />
+</Solution>
