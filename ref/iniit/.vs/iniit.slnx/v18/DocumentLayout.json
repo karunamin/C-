@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\SourceBank\\C-\\ref\\iniit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17713ABC-A004-4982-98A8-DB892F271FCD}|conversionconstructor\\conversionconstructor.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\conversionconstructor\\conversionconstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17713ABC-A004-4982-98A8-DB892F271FCD}|conversionconstructor\\conversionconstructor.vcxproj|solutionrelative:conversionconstructor\\conversionconstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA27CD67-2BA0-4E1F-91FC-2DEDACE5C7DD}|moveconstructor02\\moveconstructor02.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\moveconstructor02\\moveconstructor02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA27CD67-2BA0-4E1F-91FC-2DEDACE5C7DD}|moveconstructor02\\moveconstructor02.vcxproj|solutionrelative:moveconstructor02\\moveconstructor02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7AC3FA-72CE-4016-B19D-9E9395282679}|maoveconstructor\\maoveconstructor.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\maoveconstructor\\moveconstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A7AC3FA-72CE-4016-B19D-9E9395282679}|maoveconstructor\\maoveconstructor.vcxproj|solutionrelative:maoveconstructor\\moveconstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579C539F-9BC2-491A-AEFF-C509A5734389}|rvlaue\\rvlaue.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\rvlaue\\rvlaue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{579C539F-9BC2-491A-AEFF-C509A5734389}|rvlaue\\rvlaue.vcxproj|solutionrelative:rvlaue\\rvlaue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D7CC7-52FA-4FC0-A519-6B549C28EADE}|new01\\new01.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\new01\\new01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{689D7CC7-52FA-4FC0-A519-6B549C28EADE}|new01\\new01.vcxproj|solutionrelative:new01\\new01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BF25C4-8D2E-401F-8F6D-5392E4959CA8}|FileName\\FileName.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\FileName\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8BF25C4-8D2E-401F-8F6D-5392E4959CA8}|FileName\\FileName.vcxproj|solutionrelative:FileName\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE10533-B0CD-4C3F-B941-C2B4E7F769A4}|iniit06\\iniit06.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\iniit06\\iniit06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FAE10533-B0CD-4C3F-B941-C2B4E7F769A4}|iniit06\\iniit06.vcxproj|solutionrelative:iniit06\\iniit06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC389331-6F0E-4B74-BBDF-7F6CEB29416A}|copycon01\\copycon01.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\copycon01\\copycon01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC389331-6F0E-4B74-BBDF-7F6CEB29416A}|copycon01\\copycon01.vcxproj|solutionrelative:copycon01\\copycon01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85852C5-3346-49E3-ACB4-FED6BD22C9CE}|iniit05\\iniit05.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\iniit05\\iniit05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F85852C5-3346-49E3-ACB4-FED6BD22C9CE}|iniit05\\iniit05.vcxproj|solutionrelative:iniit05\\iniit05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F14B3-5F68-4B3C-B44E-C9704351B0C9}|iniit04\\iniit04.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\iniit04\\iniit04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C60F14B3-5F68-4B3C-B44E-C9704351B0C9}|iniit04\\iniit04.vcxproj|solutionrelative:iniit04\\iniit04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E99E30AB-9A1D-472F-95B4-F445648FB2A5}|iniit03\\iniit03.vcxproj|C:\\SourceBank\\C-\\ref\\iniit\\iniit03\\iniit03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E99E30AB-9A1D-472F-95B4-F445648FB2A5}|iniit03\\iniit03.vcxproj|solutionrelative:iniit03\\iniit03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +67,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "conversionconstructor.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\conversionconstructor\\conversionconstructor.cpp",
+              "RelativeDocumentMoniker": "conversionconstructor\\conversionconstructor.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\conversionconstructor\\conversionconstructor.cpp",
+              "RelativeToolTip": "conversionconstructor\\conversionconstructor.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T07:47:43.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rvlaue.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\rvlaue\\rvlaue.cpp",
+              "RelativeDocumentMoniker": "rvlaue\\rvlaue.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\rvlaue\\rvlaue.cpp",
+              "RelativeToolTip": "rvlaue\\rvlaue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T07:24:41.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "moveconstructor02.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\moveconstructor02\\moveconstructor02.cpp",
+              "RelativeDocumentMoniker": "moveconstructor02\\moveconstructor02.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\moveconstructor02\\moveconstructor02.cpp",
+              "RelativeToolTip": "moveconstructor02\\moveconstructor02.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T07:21:40.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moveconstructor.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\maoveconstructor\\moveconstructor.cpp",
+              "RelativeDocumentMoniker": "maoveconstructor\\moveconstructor.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\maoveconstructor\\moveconstructor.cpp",
+              "RelativeToolTip": "maoveconstructor\\moveconstructor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T06:03:16.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\FileName\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName\\FileName.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\FileName\\FileName.cpp",
+              "RelativeToolTip": "FileName\\FileName.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T05:32:33.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "new01.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\new01\\new01.cpp",
+              "RelativeDocumentMoniker": "new01\\new01.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\new01\\new01.cpp",
+              "RelativeToolTip": "new01\\new01.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T02:11:17.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "copycon01.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\copycon01\\copycon01.cpp",
+              "RelativeDocumentMoniker": "copycon01\\copycon01.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\copycon01\\copycon01.cpp",
+              "RelativeToolTip": "copycon01\\copycon01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T01:43:36.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "iniit06.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit06\\iniit06.cpp",
+              "RelativeDocumentMoniker": "iniit06\\iniit06.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\iniit06\\iniit06.cpp",
+              "RelativeToolTip": "iniit06\\iniit06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T01:08:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "iniit05.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit05\\iniit05.cpp",
+              "RelativeDocumentMoniker": "iniit05\\iniit05.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\iniit05\\iniit05.cpp",
+              "RelativeToolTip": "iniit05\\iniit05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T00:32:01.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "iniit04.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit04\\iniit04.cpp",
+              "RelativeDocumentMoniker": "iniit04\\iniit04.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\iniit04\\iniit04.cpp",
+              "RelativeToolTip": "iniit04\\iniit04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T00:18:49.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "iniit03.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit03\\iniit03.cpp",
               "RelativeDocumentMoniker": "iniit03\\iniit03.cpp",
               "ToolTip": "C:\\SourceBank\\C-\\ref\\iniit\\iniit03\\iniit03.cpp",
               "RelativeToolTip": "iniit03\\iniit03.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-03T08:10:00.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "iniit02.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit02\\iniit02.cpp",
               "RelativeDocumentMoniker": "iniit02\\iniit02.cpp",
@@ -47,12 +217,11 @@
               "RelativeToolTip": "iniit02\\iniit02.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T07:44:35.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T07:44:35.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "iniit01.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\ref\\iniit\\iniit01\\iniit01.cpp",
               "RelativeDocumentMoniker": "iniit01\\iniit01.cpp",
@@ -60,8 +229,7 @@
               "RelativeToolTip": "iniit01\\iniit01.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T07:19:48.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T07:19:48.786Z"
             }
           ]
         }

@@ -3,7 +3,17 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="iniit01/iniit01.vcxproj" />
-  <Project Path="iniit02/iniit02.vcxproj" />
-  <Project Path="iniit03/iniit03.vcxproj" />
+  <Project Path="conversionconstructor/conversionconstructor.vcxproj" Id="17713abc-a004-4982-98a8-db892f271fcd" />
+  <Project Path="copycon01/copycon01.vcxproj" Id="ac389331-6f0e-4b74-bbdf-7f6ceb29416a" />
+  <Project Path="FileName/FileName.vcxproj" Id="d8bf25c4-8d2e-401f-8f6d-5392e4959ca8" />
+  <Project Path="iniit01/iniit01.vcxproj" Id="c8f3a8c1-eb57-44b2-b5d2-2175df038e84" />
+  <Project Path="iniit02/iniit02.vcxproj" Id="88975598-b065-4725-b85a-06fa582509ce" />
+  <Project Path="iniit03/iniit03.vcxproj" Id="e99e30ab-9a1d-472f-95b4-f445648fb2a5" />
+  <Project Path="iniit04/iniit04.vcxproj" Id="c60f14b3-5f68-4b3c-b44e-c9704351b0c9" />
+  <Project Path="iniit05/iniit05.vcxproj" Id="f85852c5-3346-49e3-acb4-fed6bd22c9ce" />
+  <Project Path="iniit06/iniit06.vcxproj" Id="fae10533-b0cd-4c3f-b941-c2b4e7f769a4" />
+  <Project Path="maoveconstructor/maoveconstructor.vcxproj" Id="6a7ac3fa-72ce-4016-b19d-9e9395282679" />
+  <Project Path="moveconstructor02/moveconstructor02.vcxproj" Id="da27cd67-2ba0-4e1f-91fc-2dedace5c7dd" />
+  <Project Path="new01/new01.vcxproj" Id="689d7cc7-52fa-4fc0-a519-6b549c28eade" />
+  <Project Path="rvlaue/rvlaue.vcxproj" Id="579c539f-9bc2-491a-aeff-c509a5734389" />
 </Solution>
