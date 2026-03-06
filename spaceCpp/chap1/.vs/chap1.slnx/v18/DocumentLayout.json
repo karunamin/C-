@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64316F0B-C70B-4B22-95CA-F8E0005589CE}|09_function_args1\\09_function_args1.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\09_function_args1\\09_function_args1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64316F0B-C70B-4B22-95CA-F8E0005589CE}|09_function_args1\\09_function_args1.vcxproj|solutionrelative:09_function_args1\\09_function_args1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3904AB-E4FA-448B-8F20-44751322DE58}|02_casting\\02_casting.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\02_casting\\02_casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B3904AB-E4FA-448B-8F20-44751322DE58}|02_casting\\02_casting.vcxproj|solutionrelative:02_casting\\02_casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC485C8-18B3-4EAB-9017-044381F9D3C6}|Basic\\Basic.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\Basic\\01_variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EC485C8-18B3-4EAB-9017-044381F9D3C6}|Basic\\Basic.vcxproj|solutionrelative:Basic\\01_variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102A0E4E-24D3-447E-A95E-E02AA4918ED4}|basic2\\basic2.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\basic2\\basic2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102A0E4E-24D3-447E-A95E-E02AA4918ED4}|basic2\\basic2.vcxproj|solutionrelative:basic2\\basic2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FBA00F-C6BE-45C3-8757-AD05CB92215B}|04_condition\\04_condition.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\04_condition\\04_condition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56FBA00F-C6BE-45C3-8757-AD05CB92215B}|04_condition\\04_condition.vcxproj|solutionrelative:04_condition\\04_condition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FA4FD-40EA-423B-B0E8-3B3857E2088C}|05_for\\05_for.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\05_for\\05_for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A4FA4FD-40EA-423B-B0E8-3B3857E2088C}|05_for\\05_for.vcxproj|solutionrelative:05_for\\05_for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A684DD4-ED92-41C6-8109-15F68B48E529}|06_while\\06_while.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\06_while\\06_while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A684DD4-ED92-41C6-8109-15F68B48E529}|06_while\\06_while.vcxproj|solutionrelative:06_while\\06_while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CC1D79-850A-4291-8416-2B52027C73E6}|07_break_continue\\07_break_continue.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\07_break_continue\\07_break_continue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27CC1D79-850A-4291-8416-2B52027C73E6}|07_break_continue\\07_break_continue.vcxproj|solutionrelative:07_break_continue\\07_break_continue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA58DC0-F355-4EAF-9FBD-D304598E4A9F}|08_function_library\\08_function_library.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\08_function_library\\08_function_library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEA58DC0-F355-4EAF-9FBD-D304598E4A9F}|08_function_library\\08_function_library.vcxproj|solutionrelative:08_function_library\\08_function_library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "09_function_args1.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\09_function_args1\\09_function_args1.cpp",
+              "RelativeDocumentMoniker": "09_function_args1\\09_function_args1.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\09_function_args1\\09_function_args1.cpp",
+              "RelativeToolTip": "09_function_args1\\09_function_args1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T08:25:02.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "08_function_library.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\08_function_library\\08_function_library.cpp",
+              "RelativeDocumentMoniker": "08_function_library\\08_function_library.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\08_function_library\\08_function_library.cpp",
+              "RelativeToolTip": "08_function_library\\08_function_library.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T08:09:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "07_break_continue.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\07_break_continue\\07_break_continue.cpp",
+              "RelativeDocumentMoniker": "07_break_continue\\07_break_continue.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\07_break_continue\\07_break_continue.cpp",
+              "RelativeToolTip": "07_break_continue\\07_break_continue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T07:54:35.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "06_while.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\06_while\\06_while.cpp",
+              "RelativeDocumentMoniker": "06_while\\06_while.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\06_while\\06_while.cpp",
+              "RelativeToolTip": "06_while\\06_while.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T07:11:07.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "05_for.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\05_for\\05_for.cpp",
+              "RelativeDocumentMoniker": "05_for\\05_for.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\05_for\\05_for.cpp",
+              "RelativeToolTip": "05_for\\05_for.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T06:13:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04_condition.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\04_condition\\04_condition.cpp",
+              "RelativeDocumentMoniker": "04_condition\\04_condition.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\04_condition\\04_condition.cpp",
+              "RelativeToolTip": "04_condition\\04_condition.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T05:23:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "basic2.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\basic2\\basic2.cpp",
+              "RelativeDocumentMoniker": "basic2\\basic2.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\basic2\\basic2.cpp",
+              "RelativeToolTip": "basic2\\basic2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T03:14:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "02_casting.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\02_casting\\02_casting.cpp",
+              "RelativeDocumentMoniker": "02_casting\\02_casting.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\02_casting\\02_casting.cpp",
+              "RelativeToolTip": "02_casting\\02_casting.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T02:05:40.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01_variable.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\Basic\\01_variable.cpp",
+              "RelativeDocumentMoniker": "Basic\\01_variable.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\Basic\\01_variable.cpp",
+              "RelativeToolTip": "Basic\\01_variable.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T01:23:59.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

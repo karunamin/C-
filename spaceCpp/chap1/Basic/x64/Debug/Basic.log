@@ -1,0 +1,3 @@
+﻿  01_variable.cpp
+C:\SourceBank\C-\spaceCpp\chap1\Basic\01_variable.cpp(16,10): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+  Basic.vcxproj -> C:\SourceBank\C-\spaceCpp\chap1\x64\Debug\Basic.exe

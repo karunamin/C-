@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="02_casting/02_casting.vcxproj" />
+  <Project Path="04_condition/04_condition.vcxproj" />
+  <Project Path="05_for/05_for.vcxproj" />
+  <Project Path="06_while/06_while.vcxproj" />
+  <Project Path="07_break_continue/07_break_continue.vcxproj" />
+  <Project Path="08_function_library/08_function_library.vcxproj" />
+  <Project Path="09_function_args1/09_function_args1.vcxproj" />
+  <Project Path="Basic/Basic.vcxproj" />
+  <Project Path="basic2/basic2.vcxproj" />
+</Solution>
