@@ -3,13 +3,20 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="02_casting/02_casting.vcxproj" />
-  <Project Path="04_condition/04_condition.vcxproj" />
-  <Project Path="05_for/05_for.vcxproj" />
-  <Project Path="06_while/06_while.vcxproj" />
-  <Project Path="07_break_continue/07_break_continue.vcxproj" />
-  <Project Path="08_function_library/08_function_library.vcxproj" />
-  <Project Path="09_function_args1/09_function_args1.vcxproj" />
-  <Project Path="Basic/Basic.vcxproj" />
-  <Project Path="basic2/basic2.vcxproj" />
+  <Project Path="02_casting/02_casting.vcxproj" Id="9b3904ab-e4fa-448b-8f20-44751322de58" />
+  <Project Path="04_condition/04_condition.vcxproj" Id="56fba00f-c6be-45c3-8757-ad05cb92215b" />
+  <Project Path="05_for/05_for.vcxproj" Id="4a4fa4fd-40ea-423b-b0e8-3b3857e2088c" />
+  <Project Path="06_while/06_while.vcxproj" Id="0a684dd4-ed92-41c6-8109-15f68b48e529" />
+  <Project Path="07_break_continue/07_break_continue.vcxproj" Id="27cc1d79-850a-4291-8416-2b52027c73e6" />
+  <Project Path="08_function_library/08_function_library.vcxproj" Id="eea58dc0-f355-4eaf-9fbd-d304598e4a9f" />
+  <Project Path="09_function_args1/09_function_args1.vcxproj" Id="64316f0b-c70b-4b22-95ca-f8e0005589ce" />
+  <Project Path="11_function_passbyvalue/11_function_passbyvalue.vcxproj" Id="13380672-1267-4f39-b457-249629d42113" />
+  <Project Path="12_class/12_class.vcxproj" Id="c6f1268f-5cfb-4762-9bab-912ec103e216" />
+  <Project Path="13_class_use/13_class_use.vcxproj" Id="e11dcdc6-79c7-4810-9b6f-2700c3ad8971" />
+  <Project Path="14.1_Game/14.1_Game.vcxproj" Id="0d15ca21-43a6-4d15-872b-56b03f9abe7f" />
+  <Project Path="14_class/14_class.vcxproj" Id="66a50097-dbb8-48af-8dd7-ea8528284d82" />
+  <Project Path="Basic/Basic.vcxproj" Id="2ec485c8-18b3-4eab-9017-044381f9d3c6" />
+  <Project Path="basic2/basic2.vcxproj" Id="102a0e4e-24d3-447e-a95e-e02aa4918ed4" />
+  <Project Path="file1/file1.vcxproj" Id="e7a59503-2191-410d-898a-cc59251a0a18" />
+  <Project Path="function_library2/function_library2.vcxproj" Id="5db1d3c5-c8a9-4129-9b51-ffefffc3b750" />
 </Solution>
