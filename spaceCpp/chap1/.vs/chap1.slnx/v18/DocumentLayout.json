@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0F56629-0A52-4287-9C80-2B0D8D3FBBB4}|\uC194\uB8E8\uC158 \uD56D\uBAA9{B0F56629-0A52-4287-9C80-2B0D8D3FBBB4}|C:\\SourceBank\\C-\\spaceCpp\\chap1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B0F56629-0A52-4287-9C80-2B0D8D3FBBB4}|\uC194\uB8E8\uC158 \uD56D\uBAA9{B0F56629-0A52-4287-9C80-2B0D8D3FBBB4}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D15CA21-43A6-4D15-872B-56B03F9ABE7F}|14.1_Game\\14.1_Game.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\14.1_Game\\14.1_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0D15CA21-43A6-4D15-872B-56B03F9ABE7F}|14.1_Game\\14.1_Game.vcxproj|solutionrelative:14.1_Game\\14.1_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -34,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "12_class.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\12_class\\12_class.cpp",
               "RelativeDocumentMoniker": "12_class\\12_class.cpp",
@@ -48,6 +52,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-09T08:15:25.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "14.1_Game.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14.1_Game\\14.1_Game.cpp",
               "RelativeDocumentMoniker": "14.1_Game\\14.1_Game.cpp",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "14_class.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14_class\\14_class.cpp",
               "RelativeDocumentMoniker": "14_class\\14_class.cpp",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "13_class_use.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\13_class_use\\13_class_use.cpp",
               "RelativeDocumentMoniker": "13_class_use\\13_class_use.cpp",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "10_function_library2.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\function_library2\\10_function_library2.cpp",
               "RelativeDocumentMoniker": "function_library2\\10_function_library2.cpp",

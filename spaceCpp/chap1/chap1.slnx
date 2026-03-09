@@ -3,6 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/솔루션 항목/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="02_casting/02_casting.vcxproj" Id="9b3904ab-e4fa-448b-8f20-44751322de58" />
   <Project Path="04_condition/04_condition.vcxproj" Id="56fba00f-c6be-45c3-8757-ad05cb92215b" />
   <Project Path="05_for/05_for.vcxproj" Id="4a4fa4fd-40ea-423b-b0e8-3b3857e2088c" />
