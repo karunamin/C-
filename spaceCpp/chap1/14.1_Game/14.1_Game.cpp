@@ -16,7 +16,7 @@ int main() {
 	}
 
 	for (int num : luckyBox) {
-		cout << num << endl;
+		cout << " [ " << num << " ] ";
 	}
 
 	return 0;

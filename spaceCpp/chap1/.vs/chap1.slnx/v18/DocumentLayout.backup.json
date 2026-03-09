@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-09T02:50:17.628Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -52,9 +51,9 @@
               "Title": "14.1_Game.cpp",
               "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14.1_Game\\14.1_Game.cpp",
               "RelativeDocumentMoniker": "14.1_Game\\14.1_Game.cpp",
-              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14.1_Game\\14.1_Game.cpp",
-              "RelativeToolTip": "14.1_Game\\14.1_Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14.1_Game\\14.1_Game.cpp*",
+              "RelativeToolTip": "14.1_Game\\14.1_Game.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-09T07:24:07.402Z",
               "EditorCaption": ""
@@ -69,8 +68,7 @@
               "RelativeToolTip": "14_class\\14_class.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T06:30:58.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T06:30:58.996Z"
             },
             {
               "$type": "Document",
@@ -82,8 +80,7 @@
               "RelativeToolTip": "13_class_use\\13_class_use.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T06:30:15.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T06:30:15.874Z"
             },
             {
               "$type": "Document",
@@ -95,8 +92,7 @@
               "RelativeToolTip": "function_library2\\10_function_library2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T00:34:47.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T00:34:47.301Z"
             }
           ]
         }
