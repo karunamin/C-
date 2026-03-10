@@ -16,8 +16,14 @@
   <Project Path="13_class_use/13_class_use.vcxproj" Id="e11dcdc6-79c7-4810-9b6f-2700c3ad8971" />
   <Project Path="14.1_Game/14.1_Game.vcxproj" Id="0d15ca21-43a6-4d15-872b-56b03f9abe7f" />
   <Project Path="14_class/14_class.vcxproj" Id="66a50097-dbb8-48af-8dd7-ea8528284d82" />
+  <Project Path="15_class_extension/15_class_extension.vcxproj" Id="2a2af920-2ac1-4247-87d6-47acbbadff14" />
+  <Project Path="16_class_override/16_class_override.vcxproj" Id="2d5e02a5-f96b-414b-aa98-c0f457ab6a2c" />
+  <Project Path="17_class_typecasting/17_class_typecasting.vcxproj" Id="53e222d0-7ed0-4fa6-88e3-4e506b3c4470" />
   <Project Path="Basic/Basic.vcxproj" Id="2ec485c8-18b3-4eab-9017-044381f9d3c6" />
   <Project Path="basic2/basic2.vcxproj" Id="102a0e4e-24d3-447e-a95e-e02aa4918ed4" />
+  <Project Path="courseRoster/courseRoster.vcxproj" Id="59989294-1aac-4349-9808-28b4b4fbcfc1" />
   <Project Path="file1/file1.vcxproj" Id="e7a59503-2191-410d-898a-cc59251a0a18" />
   <Project Path="function_library2/function_library2.vcxproj" Id="5db1d3c5-c8a9-4129-9b51-ffefffc3b750" />
+  <Project Path="student/student.vcxproj" Id="6f436203-3fcc-40fb-a681-8816ec35dff0" />
+  <Project Path="tokenizer/tokenizer.vcxproj" Id="26eaf6ac-0565-4928-82bf-ef1f84955aeb" />
 </Solution>

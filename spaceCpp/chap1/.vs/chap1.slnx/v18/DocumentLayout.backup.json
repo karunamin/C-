@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0F56629-0A52-4287-9C80-2B0D8D3FBBB4}|\uC194\uB8E8\uC158 \uD56D\uBAA9{B0F56629-0A52-4287-9C80-2B0D8D3FBBB4}|C:\\SourceBank\\C-\\spaceCpp\\chap1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B0F56629-0A52-4287-9C80-2B0D8D3FBBB4}|\uC194\uB8E8\uC158 \uD56D\uBAA9{B0F56629-0A52-4287-9C80-2B0D8D3FBBB4}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{26EAF6AC-0565-4928-82BF-EF1F84955AEB}|tokenizer\\tokenizer.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\tokenizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26EAF6AC-0565-4928-82BF-EF1F84955AEB}|tokenizer\\tokenizer.vcxproj|solutionrelative:tokenizer\\tokenizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D15CA21-43A6-4D15-872B-56B03F9ABE7F}|14.1_Game\\14.1_Game.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\14.1_Game\\14.1_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D15CA21-43A6-4D15-872B-56B03F9ABE7F}|14.1_Game\\14.1_Game.vcxproj|solutionrelative:14.1_Game\\14.1_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{26EAF6AC-0565-4928-82BF-EF1F84955AEB}|tokenizer\\tokenizer.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\tokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26EAF6AC-0565-4928-82BF-EF1F84955AEB}|tokenizer\\tokenizer.vcxproj|solutionrelative:tokenizer\\tokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A50097-DBB8-48AF-8DD7-EA8528284D82}|14_class\\14_class.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\14_class\\14_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66A50097-DBB8-48AF-8DD7-EA8528284D82}|14_class\\14_class.vcxproj|solutionrelative:14_class\\14_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E11DCDC6-79C7-4810-9B6F-2700C3AD8971}|13_class_use\\13_class_use.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\13_class_use\\13_class_use.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E11DCDC6-79C7-4810-9B6F-2700C3AD8971}|13_class_use\\13_class_use.vcxproj|solutionrelative:13_class_use\\13_class_use.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F1268F-5CFB-4762-9BAB-912EC103E216}|12_class\\12_class.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\12_class\\12_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6F1268F-5CFB-4762-9BAB-912EC103E216}|12_class\\12_class.vcxproj|solutionrelative:12_class\\12_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DB1D3C5-C8A9-4129-9B51-FFEFFFC3B750}|function_library2\\function_library2.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\function_library2\\10_function_library2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DB1D3C5-C8A9-4129-9B51-FFEFFFC3B750}|function_library2\\function_library2.vcxproj|solutionrelative:function_library2\\10_function_library2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{26EAF6AC-0565-4928-82BF-EF1F84955AEB}|tokenizer\\tokenizer.vcxproj|C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\appTokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26EAF6AC-0565-4928-82BF-EF1F84955AEB}|tokenizer\\tokenizer.vcxproj|solutionrelative:tokenizer\\appTokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,78 +26,42 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "12_class.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\12_class\\12_class.cpp",
-              "RelativeDocumentMoniker": "12_class\\12_class.cpp",
-              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\12_class\\12_class.cpp",
-              "RelativeToolTip": "12_class\\12_class.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "appTokenizer.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\appTokenizer.cpp",
+              "RelativeDocumentMoniker": "tokenizer\\appTokenizer.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\appTokenizer.cpp",
+              "RelativeToolTip": "tokenizer\\appTokenizer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T02:50:17.628Z",
-              "IsPinned": true
+              "WhenOpened": "2026-03-10T07:06:55.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-09T08:15:25.699Z",
+              "Title": "tokenizer.h",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\tokenizer.h",
+              "RelativeDocumentMoniker": "tokenizer\\tokenizer.h",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\tokenizer.h*",
+              "RelativeToolTip": "tokenizer\\tokenizer.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-10T07:06:38.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "14.1_Game.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14.1_Game\\14.1_Game.cpp",
-              "RelativeDocumentMoniker": "14.1_Game\\14.1_Game.cpp",
-              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14.1_Game\\14.1_Game.cpp",
-              "RelativeToolTip": "14.1_Game\\14.1_Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Title": "tokenizer.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\tokenizer.cpp",
+              "RelativeDocumentMoniker": "tokenizer\\tokenizer.cpp",
+              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\tokenizer\\tokenizer.cpp",
+              "RelativeToolTip": "tokenizer\\tokenizer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T07:24:07.402Z",
+              "WhenOpened": "2026-03-10T07:06:26.026Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "14_class.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14_class\\14_class.cpp",
-              "RelativeDocumentMoniker": "14_class\\14_class.cpp",
-              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\14_class\\14_class.cpp",
-              "RelativeToolTip": "14_class\\14_class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T06:30:58.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "13_class_use.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\13_class_use\\13_class_use.cpp",
-              "RelativeDocumentMoniker": "13_class_use\\13_class_use.cpp",
-              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\13_class_use\\13_class_use.cpp",
-              "RelativeToolTip": "13_class_use\\13_class_use.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T06:30:15.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "10_function_library2.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\function_library2\\10_function_library2.cpp",
-              "RelativeDocumentMoniker": "function_library2\\10_function_library2.cpp",
-              "ToolTip": "C:\\SourceBank\\C-\\spaceCpp\\chap1\\function_library2\\10_function_library2.cpp",
-              "RelativeToolTip": "function_library2\\10_function_library2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T00:34:47.301Z"
             }
           ]
         }
