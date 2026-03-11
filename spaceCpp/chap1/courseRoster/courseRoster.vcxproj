@@ -127,15 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="app.cpp" />
     <ClCompile Include="course.cpp" />
     <ClCompile Include="course.h" />
     <ClCompile Include="courseRoster.cpp" />
     <ClCompile Include="register.cpp" />
+    <ClCompile Include="student.cpp" />
+    <ClCompile Include="studentSchedule.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="courseRoster.h" />
     <ClInclude Include="register.h" />
+    <ClInclude Include="student.h" />
     <ClInclude Include="student2.h" />
+    <ClInclude Include="studentSchedule.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

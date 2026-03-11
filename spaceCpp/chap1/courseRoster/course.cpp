@@ -27,7 +27,7 @@ CourseRoster* Course::getRoster()const
 	return roster;
 }
 // print 함수의 정의
-void course::print()const
+void Course::print()const
 {
 	cout << "코스 이름: " << name << endl;
 	cout << "과목의 학점: " << units << endl;

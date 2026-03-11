@@ -27,6 +27,15 @@
     <ClCompile Include="register.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="student.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="studentSchedule.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="app.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="courseRoster.h">
@@ -36,6 +45,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="register.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="student.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="studentSchedule.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

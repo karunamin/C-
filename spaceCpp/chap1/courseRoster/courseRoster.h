@@ -5,6 +5,8 @@
 #include <iostream>
 #include <cassert>
 using namespace std;
+
+// 클래스 정의
 class CourseRoster
 {
 private:
@@ -15,9 +17,5 @@ public:
 	~CourseRoster();
 	void addStudent(string studentName);
 	void print()const;
-
 };
-
-
-
 #endif // ! COURSEROSTER_H

@@ -1,29 +1,30 @@
-﻿#include <iostream>
+﻿
 #include "courseRoster.h"
 
-int main() {
+// 생성자
+CourseRoster::CourseRoster ()
+	:size(0)
+{
 	stdNames = new string[20];
 }
+// 소멸자
 CourseRoster::~CourseRoster()
 {
 	delete[]stdNames;
 }
+// addStudent 함수의 정의
 void CourseRoster::addStudent(string studentName)
 {
-	if (size < 20) {
-		stdNames[size] = studentName;
-		size++;
-	}
-	else
-	{
-		cout << "Course roster is full. Cannot add more students." << endl;
-	}
+	stdNames[size] = studentName;
+	size++;
 }
+// print 함수의 정의
 void CourseRoster::print()const
 {
-	cout << "Course Roster:" << endl;
+	cout << "수강하는 학생 목록" << endl;
 	for (int i = 0; i < size; i++)
 	{
 		cout << stdNames[i] << endl;
 	}
+	cout << endl;
 }

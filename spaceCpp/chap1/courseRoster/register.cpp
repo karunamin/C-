@@ -5,12 +5,12 @@ Registrar::Registrar()
 {
 }
 // 소멸자
-Registrar:; ~Registrar()
+Registrar:: ~Registrar()
 {
 }
 // enroll 함수
 void Registrar::enroll(Student student, Course course)
 {
-	(course.getRoster())->addStudent(Student)
-		(Student.getSchedule()->addCourse(course))
+	(course.getRoster())->addStudent(student.getName());
+	(student.getSchedule())->addCourse(course.getName());
 }
