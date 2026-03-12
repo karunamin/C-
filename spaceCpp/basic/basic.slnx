@@ -3,5 +3,12 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ArrayEx/ArrayEx.vcxproj" />
+  <Project Path="ArrayEx/ArrayEx.vcxproj" Id="31e1d5c2-066c-4f42-9637-a49901705c76" />
+  <Project Path="io_read/io_read.vcxproj" Id="56aa2ef5-4133-4765-95b0-8a0f4d657cdc" />
+  <Project Path="io_write/io_write.vcxproj" Id="582dbc95-5dd4-45e4-aab8-6cca10aefdbd" />
+  <Project Path="linkedlist/linkedlist.vcxproj" Id="6b04dec7-8754-4c50-87d1-7ec6aef27f47" />
+  <Project Path="map/map.vcxproj" Id="2951fdcf-1fd3-4e41-9b50-dc716eb72f05" />
+  <Project Path="set/set.vcxproj" Id="218c33c8-38ad-495f-98eb-48a0f32ecb1b" />
+  <Project Path="stack/stack.vcxproj" Id="be3a8a45-34ed-40b0-86bd-b06c160e7bb7" />
+  <Project Path="vector/vector.vcxproj" Id="e74624cc-4945-48e6-891e-ce09cf15137a" />
 </Solution>
